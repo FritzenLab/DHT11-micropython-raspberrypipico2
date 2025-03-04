@@ -19,4 +19,4 @@ while True:
             # Transmits the temperature to the computer console
     except OSError as e:
         print('Failed reception')
-        # If esp does not receive the measurements from the sensor
+        # If the Pi Pico 2 does not receive the measurements from the sensor
